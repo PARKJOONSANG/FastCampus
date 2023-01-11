@@ -1,1 +1,1 @@
-echo helloworld
+echo helloword workload
